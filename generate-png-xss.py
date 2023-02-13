@@ -6,7 +6,7 @@ import zlib
 import argparse
 from PIL import Image
 
-
+#requeriments Pillow==6.2.0
 def banner():
     print(
         """               ____                    
